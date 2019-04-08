@@ -1,4 +1,4 @@
-LeoPlatform/cli
+testLeoPlatform/cli
 ===================
 
 Leo CLI
